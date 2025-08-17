@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="第 1 页" id="ZpcEN0CRGUifDq8EgPmV">
+    <mxGraphModel dx="1298" dy="864" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="366" y="270" width="156" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-2" value="h" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="306" y="294" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-3" value="w" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265.5" y="475" width="357" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-5" value="Inputs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="306" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-8" value="row" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116" y="379" width="85" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-9" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(163, 21, 21), rgb(255, 167, 167)); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-wrap-mode: wrap; background-color: transparent;&quot;&gt;w/block_w + 1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="87" y="434" width="128" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-10" value="&lt;strong style=&quot;color: rgb(59, 59, 59); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;&lt;code style=&quot;color: rgb(163, 21, 21); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 1em; line-height: 1.357em;&quot;&gt;ext_buffer&lt;/code&gt;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="380" width="85" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-11" value="&lt;strong style=&quot;color: rgb(59, 59, 59); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;code style=&quot;color: rgb(163, 21, 21); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 1em; line-height: 1.357em;&quot;&gt;h&lt;/code&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(59, 59, 59); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;color: rgb(59, 59, 59); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;code style=&quot;color: rgb(163, 21, 21); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 1em; line-height: 1.357em;&quot;&gt;w&lt;/code&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(59, 59, 59); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;color: rgb(59, 59, 59); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;code style=&quot;color: rgb(163, 21, 21); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 1em; line-height: 1.357em;&quot;&gt;block_h&lt;/code&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(59, 59, 59); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;color: rgb(59, 59, 59); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;code style=&quot;color: rgb(163, 21, 21); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 1em; line-height: 1.357em;&quot;&gt;block_w（block_h= 1）&lt;/code&gt;&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="722" y="382" width="289" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-12" value="&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: #098658;&quot;&gt;2&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;.&lt;span style=&quot;color: #001080;&quot;&gt;h&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;+&lt;/span&gt; &lt;span style=&quot;color: #001080;&quot;&gt;row_size&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;.&lt;span style=&quot;color: #001080;&quot;&gt;w&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="546" y="425" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-13" value="col" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="380" width="85" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-14" value="动态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="252" y="434" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qzRkMia-tIRLZ8vSt-Iy-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qzRkMia-tIRLZ8vSt-Iy-1" target="qzRkMia-tIRLZ8vSt-Iy-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="699" as="sourcePoint" />
+            <mxPoint x="516" y="649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
